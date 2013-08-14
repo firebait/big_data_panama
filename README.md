@@ -1,7 +1,7 @@
 Objectivo
 ------------
 
-El objetivo de este proyecto es crear un repositorio de data pública de Panamá. Esto se lograra indexando diferentes fuentes de información, creando algoritmos de análisis y finalmente creando un API para el consumo de desarrolladores y empresas.
+El objetivo de este proyecto es crear un repositorio de data pública para Panamá. Esto se lograra indexando diferentes fuentes de información, creando algoritmos de análisis y finalmente creando un API para el consumo de desarrolladores y empresas.
 
 Tecnologías
 ------------
